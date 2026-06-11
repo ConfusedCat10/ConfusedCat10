@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Mohammad Namar Dimalotang</h1>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd1dGVwdmRyeWM2NTdzdXl5YWk2eG84aTR1ZjF0dTY4d2VsMm00MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="220">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cum+Laude+BSIT+Graduate;GoHighLevel+Specialist;CRM+%26+Automation+Enthusiast;Aspiring+Software+Engineer;Web+Designer" />
+</p>
+
 # 💫 About Me:
 🎓 BS Information Technology Graduate  <br>💻 GoHighLevel Specialist | CRM & Automation Enthusiast  <br>🚀 Aspiring Software Engineer | Web Designer  <br>📍 Pasay City, Philippines
 
