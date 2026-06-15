@@ -26,8 +26,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ConfusedCat10&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ConfusedCat10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
